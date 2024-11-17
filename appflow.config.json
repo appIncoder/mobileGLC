@@ -2,7 +2,7 @@
   "apps": [
     {
       "appId": "be.glcbaudour.app.mobile",
-      "root": "chemin/vers/votre/app",
+      "root": "/builds/appIncoder/mobileGLC",
       "dependencyInstallCommand": "npm install --force",
       "webBuildCommand": "npm run build:custom"
     }
