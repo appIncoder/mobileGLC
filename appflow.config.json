@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "appId": "be.glcbaudour.app.mobile",
+      "root": "chemin/vers/votre/app",
+      "dependencyInstallCommand": "npm install --force",
+      "webBuildCommand": "npm run build:custom"
+    }
+  ]
+}
