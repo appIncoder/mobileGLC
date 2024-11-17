@@ -10,7 +10,8 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "appflow:build": "ng build --configuration=production"
+    "appflow:build": "ng build --configuration=production",
+    "build:custom": "ng build --configuration=production"
   },
   "private": true,
   "dependencies": {
