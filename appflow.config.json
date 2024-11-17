@@ -2,7 +2,7 @@
   "apps": [
     {
       "appId": "be.glcbaudour.app.mobile",
-      "root": "/builds/appIncoder/mobileGLC",
+      "root": "/builds/appIncoder/mobileGLC/",
       "dependencyInstallCommand": "npm install --force",
       "webBuildCommand": "npm run build:custom"
     }
